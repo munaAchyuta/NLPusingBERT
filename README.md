@@ -4,7 +4,7 @@ This Repo is having code for downward NLP applications like Named Entity Recogni
 
 this repo uses code from <code>https://github.com/huggingface/pytorch-pretrained-BERT<code>
 
-#### Future work :#### sentiment analysis, QA retrival, text entailment, text similarity..etc.
+#### Future work : `sentiment analysis, QA retrival, text entailment, text similarity..etc.`
 
 #### to use existing trained model execute below code :
 ```

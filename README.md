@@ -7,6 +7,7 @@ this repo uses code from <code>https://github.com/huggingface/pytorch-pretrained
 #### Future work : `sentiment analysis, QA retrival, text entailment, text similarity..etc.`
 
 #### to use existing trained model execute below code :
+1. 1st unzip files inside data directory of each sub-directory if zip file there else collect file but follow conll standard like inside data directory. remember input data structure different for each NLP application. 
 ```
 python examples/nerTest_usingBert.py --data_dir data/conll2003/ --bert_model bert-base-uncased --do_lower_case --do_train --do_eval --do_test --do_pred --task_name NER --output_dir custom_models/ner_output_conll2003
 

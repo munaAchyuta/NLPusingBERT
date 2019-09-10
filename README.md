@@ -3,6 +3,11 @@
 This Repo is having code for downward NLP applications like Named Entity Recognition(NER),Intent classification using multi label classification,...etc.
 
 this repo uses code from <code>https://github.com/huggingface/pytorch-pretrained-BERT<code>
+  
+`pytorch_pretrained_bert version :  0.5.1
+torch version :  1.0.0
+numpy version :  1.15.4
+`
 
 #### Future work : `sentiment analysis, QA retrival, text entailment, text similarity, text summarization..etc.`
 
